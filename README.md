@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You should run `npm install` before running the app. 
 
 ## Available Scripts
 
